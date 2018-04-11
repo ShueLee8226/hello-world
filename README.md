@@ -7,3 +7,6 @@ Good Luck
 
 testing
 https://www.youtube.com/watch?v=R0WHr_MCzsU
+
+
+https://www.nginx.com/blog/setting-up-nginx/
